@@ -29,3 +29,31 @@ First, grab the code by cloning this repository to your local machine.
 
 ```sh
 git clone https://github.com/Braverious/bgremoval
+```
+### 2. **Install the Magic 🪄
+
+This script relies on a few awesome Python libraries. Make sure you have a requirements.txt file with rembg and Pillow listed inside, then run:
+
+```sh
+pip install -r requirements.txt
+```
+
+### 3. **Run the Script!
+
+
+This script relies on a few awesome Python libraries. Make sure you have a requirements.txt file with rembg and Pillow listed inside, then run:
+
+```sh
+pip install -r requirements.txt
+```
+
+✅ Voilà! Your background-free image will be waiting for you at ```sh output.png.```
+
+---
+
+## 🙏 Credits & Acknowledgements
+This tool would not be possible without the groundbreaking work of Daniel Gatis and the other contributors to the rembg library. Their powerful and easy-to-use background removal tool is the engine behind this script.
+
+If you find this useful, please consider giving a star to the official [👉 rembg repository on GitHub! 👈](https://github.com/danielgatis/rembg)
+
+
