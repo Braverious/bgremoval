@@ -1,0 +1,3 @@
+python remove_bg.py input.jpg output.png
+
+python remove_bg.py [[The original image name]] [[The result]]
